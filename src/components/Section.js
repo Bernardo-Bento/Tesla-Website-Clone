@@ -70,7 +70,7 @@ const Wrap = styled.div`
                 background-size: cover;
                 background-position: center;
                 background-repear: no-repeat;
-                // background-image: url('/images/model-s.jpg');
+               // background-image: url('/images/model-s.jpg');
                 display: flex;
                 flex-direction: column;
                 justify-content: space-between;
